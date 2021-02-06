@@ -1,1 +1,1 @@
-It is going to be a developer's social media rinda thing, thoungh the main aim of this project will be to have a better understanding of GitHub. It will be good that anyone do not contribute to this project.
+
